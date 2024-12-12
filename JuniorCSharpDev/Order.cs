@@ -45,10 +45,32 @@ namespace JuniorCSharpDev
         }
         public decimal GetTotalValue()
         {
+            var itemCounter = 0;
             decimal total = 0;
             foreach (var item in _list)
             {
                 total += item.GetTotalPrice();
+                itemCounter++;
+            }
+            switch(itemCounter)
+            {
+                case < 2:
+                    return total;
+                case 2:
+                    var firstProduct = _list[0];
+                    var secondProduct = _list[1];
+                    if (firstProduct.Product.Price >= secondProduct.Product.Price)
+                    {
+                        total = firstProduct.GetTotalPrice() +(secondProduct.GetTotalPrice() * (decimal)0.9);
+                        Console.WriteLine($"Udzielono rabat 10% na tańszy produkt, którym jest {secondProduct.Product.ProductName}");
+                    }
+                    break;
+                case 3:
+
+                    break;
+                    
+                
+
             }
             return total;
         }
