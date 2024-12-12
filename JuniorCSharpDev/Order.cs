@@ -72,9 +72,12 @@ namespace JuniorCSharpDev
                     }
                     break;
                 case 3:
-                    var thirdProduct = _list[2];
-                    
+                    var cheapestItem = _list.OrderBy(product => product.Product.Price).First();
+                    var discount = cheapestItem.Product.Price * (decimal)0.2;
+                    total -= discount;
+                    Console.WriteLine($"Udzielono 20% rabatu na trzeci najtańszy produkt {cheapestItem.Product.ProductName}");
                     break;
+                
                     
                 
 
