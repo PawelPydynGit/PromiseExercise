@@ -1,0 +1,14 @@
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\bin\Debug\net8.0\JuniorCSharpDev.exe
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\bin\Debug\net8.0\JuniorCSharpDev.deps.json
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\bin\Debug\net8.0\JuniorCSharpDev.runtimeconfig.json
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\bin\Debug\net8.0\JuniorCSharpDev.dll
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\bin\Debug\net8.0\JuniorCSharpDev.pdb
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\obj\Debug\net8.0\JuniorCSharpDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\obj\Debug\net8.0\JuniorCSharpDev.AssemblyInfoInputs.cache
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\obj\Debug\net8.0\JuniorCSharpDev.AssemblyInfo.cs
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\obj\Debug\net8.0\JuniorCSharpDev.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\obj\Debug\net8.0\JuniorCSharpDev.dll
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\obj\Debug\net8.0\refint\JuniorCSharpDev.dll
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\obj\Debug\net8.0\JuniorCSharpDev.pdb
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\obj\Debug\net8.0\JuniorCSharpDev.genruntimeconfig.cache
+C:\Users\Pawel\source\repos\JuniorCSharpDev\JuniorCSharpDev\obj\Debug\net8.0\ref\JuniorCSharpDev.dll
