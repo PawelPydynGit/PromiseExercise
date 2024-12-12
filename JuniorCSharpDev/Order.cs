@@ -59,14 +59,21 @@ namespace JuniorCSharpDev
                 case 2:
                     var firstProduct = _list[0];
                     var secondProduct = _list[1];
-                    if (firstProduct.Product.Price >= secondProduct.Product.Price)
+                    if (firstProduct.Product.Price > secondProduct.Product.Price)
                     {
                         total = firstProduct.GetTotalPrice() +(secondProduct.GetTotalPrice() * (decimal)0.9);
-                        Console.WriteLine($"Udzielono rabat 10% na tańszy produkt, którym jest {secondProduct.Product.ProductName}");
+                        Console.WriteLine($"Udzielono rabat 10% na tańszy produkt, którym jest {secondProduct.Product.ProductName}.");
+                      
+                    } 
+                    else
+                    {
+                        total = secondProduct.GetTotalPrice() + (firstProduct.GetTotalPrice() * (decimal)0.9);
+                        Console.WriteLine($"Udzielono rabat 10% na tańszy produkt, którym jest {firstProduct.Product.ProductName}.");
                     }
                     break;
                 case 3:
-
+                    var thirdProduct = _list[2];
+                    
                     break;
                     
                 
