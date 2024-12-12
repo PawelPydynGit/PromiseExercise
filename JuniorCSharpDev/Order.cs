@@ -11,7 +11,6 @@ namespace JuniorCSharpDev
     {
         List<OrderITem> _list = new List<OrderITem>();
 
-
         public void AddProduct(Product product,int quantity)
         {
             var alreadyOnList = _list.Find(item => item.Product.ProductName.ToLower() == product.ProductName.ToLower());
@@ -52,7 +51,7 @@ namespace JuniorCSharpDev
                 total += item.GetTotalPrice();
                 itemCounter++;
             }
-            switch(itemCounter)
+            switch (itemCounter)
             {
                 case < 2:
                     return total;
@@ -77,10 +76,11 @@ namespace JuniorCSharpDev
                     total -= discount;
                     Console.WriteLine($"Udzielono 20% rabatu na trzeci najtańszy produkt {cheapestItem.Product.ProductName}");
                     break;
-                
-                    
-                
-
+            }
+            if (total > 5000)
+            {
+                Console.WriteLine("Udzielono rabatu 5% za zamówienie powyżej 5000 PLN");
+                total = total * (decimal)0.95;
             }
             return total;
         }

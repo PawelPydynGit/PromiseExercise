@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{75EAC8F0-DF85-40AB-8F39-FE44763AA79E}|JuniorCSharpDev\\JuniorCSharpDev.csproj|solutionrelative:juniorcsharpdev\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{75EAC8F0-DF85-40AB-8F39-FE44763AA79E}|JuniorCSharpDev\\JuniorCSharpDev.csproj|c:\\users\\pawel\\source\\repos\\juniorcsharpdev\\juniorcsharpdev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EAC8F0-DF85-40AB-8F39-FE44763AA79E}|JuniorCSharpDev\\JuniorCSharpDev.csproj|solutionrelative:juniorcsharpdev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75EAC8F0-DF85-40AB-8F39-FE44763AA79E}|JuniorCSharpDev\\JuniorCSharpDev.csproj|c:\\users\\pawel\\source\\repos\\juniorcsharpdev\\juniorcsharpdev\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75EAC8F0-DF85-40AB-8F39-FE44763AA79E}|JuniorCSharpDev\\JuniorCSharpDev.csproj|solutionrelative:juniorcsharpdev\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75EAC8F0-DF85-40AB-8F39-FE44763AA79E}|JuniorCSharpDev\\JuniorCSharpDev.csproj|c:\\users\\pawel\\source\\repos\\juniorcsharpdev\\juniorcsharpdev\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75EAC8F0-DF85-40AB-8F39-FE44763AA79E}|JuniorCSharpDev\\JuniorCSharpDev.csproj|solutionrelative:juniorcsharpdev\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75EAC8F0-DF85-40AB-8F39-FE44763AA79E}|JuniorCSharpDev\\JuniorCSharpDev.csproj|c:\\users\\pawel\\source\\repos\\juniorcsharpdev\\juniorcsharpdev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75EAC8F0-DF85-40AB-8F39-FE44763AA79E}|JuniorCSharpDev\\JuniorCSharpDev.csproj|solutionrelative:juniorcsharpdev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "JuniorCSharpDev\\Order.cs",
               "ToolTip": "C:\\Users\\Pawel\\source\\repos\\JuniorCSharpDev\\JuniorCSharpDev\\Order.cs",
               "RelativeToolTip": "JuniorCSharpDev\\Order.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAwwE8AAAAQAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAwwE4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T14:12:21.563Z",
               "IsPinned": true,
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OrderITem.cs",
               "DocumentMoniker": "C:\\Users\\Pawel\\source\\repos\\JuniorCSharpDev\\JuniorCSharpDev\\OrderITem.cs",
               "RelativeDocumentMoniker": "JuniorCSharpDev\\OrderITem.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Pawel\\source\\repos\\JuniorCSharpDev\\JuniorCSharpDev\\Product.cs",
               "RelativeDocumentMoniker": "JuniorCSharpDev\\Product.cs",
@@ -68,15 +68,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pawel\\source\\repos\\JuniorCSharpDev\\JuniorCSharpDev\\Program.cs",
               "RelativeDocumentMoniker": "JuniorCSharpDev\\Program.cs",
               "ToolTip": "C:\\Users\\Pawel\\source\\repos\\JuniorCSharpDev\\JuniorCSharpDev\\Program.cs",
               "RelativeToolTip": "JuniorCSharpDev\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwBUAAAAJAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:09:25.486Z"
+              "WhenOpened": "2024-12-10T14:09:25.486Z",
+              "EditorCaption": ""
             }
           ]
         }

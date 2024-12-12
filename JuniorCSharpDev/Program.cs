@@ -15,7 +15,7 @@ class Program
         bool programRunning = true;
         var order = new Order();
 
-        Console.WriteLine("Przypominami o promocji! Na drugi tańszy produkt 10% zniżki");
+        Console.WriteLine("Przypominamy o promocji! Na drugi tańszy produkt 10% zniżki");
         Console.WriteLine("Lub dodaj trzy produkty i zyskaj 20% zniżki na najtanśzym produkcie");
         Console.WriteLine("Zrób zamówienie na kwotę wyższą niż 5000 PLN i otrzymaj 5% zniżki od całego zamówienia");
         while (programRunning)
